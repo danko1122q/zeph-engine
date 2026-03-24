@@ -36,9 +36,9 @@ This is a simple engine. It has rough edges:
 ```
 zeph-engine/
 ├── src/
-│   ├── zeph.zig        # Core physics engine
-│   ├── cloth.zig       # Cloth / soft body extension
-│   └── demo_bounceball.zig  # Example: rigid ball drop demo
+│   ├── zeph.zig
+│   ├── cloth.zig
+│   └── box.zig
 ├── build.zig
 └── README.md
 ```
