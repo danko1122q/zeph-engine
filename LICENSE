@@ -1,0 +1,143 @@
+R3D LICENSE
+Rendering Three-Dimensional Library License
+Version 1.0   |   Effective 2026
+
+========================================================================
+
+Section 1. Purpose and Scope
+
+The R3D License (Rendering Three-Dimensional License) is a legal
+agreement that governs the use, distribution, and modification of any
+three-dimensional rendering library published under this license.
+
+This license is designed to protect the rights of the original creator
+while granting developers reasonable freedom to build, integrate, and
+distribute software products that rely on 3D rendering technology.
+
+------------------------------------------------------------------------
+
+Section 2. Definitions
+
+"Software" refers to all source code, compiled binaries, shaders,
+rendering pipelines, 3D assets, and documentation included in the
+distribution package of this library.
+
+"Creator" refers to the individual or entity holding the copyright over
+the Software.
+
+"User" refers to any individual or entity that obtains, uses,
+integrates, or distributes the Software under the terms of this license.
+
+"Derivative Work" refers to any software or product built in whole or
+in part using the Software, including modifications, integrations, and
+ports to other platforms or environments.
+
+------------------------------------------------------------------------
+
+Section 3. Granted Rights
+
+The Creator grants the User a non-exclusive, royalty-free right to use
+the Software for personal, academic, and commercial purposes.
+
+The User is permitted to integrate the Software into applications that
+make use of three-dimensional features, including but not limited to
+XYZ spatial transformations, perspective and orthographic projections,
+volumetric lighting, 3D textures, and geometry-based rendering
+pipelines.
+
+The User is permitted to redistribute the Software as part of a
+finished product, provided that this license document is included in
+full and without modification.
+
+------------------------------------------------------------------------
+
+Section 4. User Obligations
+
+Any distribution of the Software or a Derivative Work must include a
+complete, unmodified copy of this license.
+
+The User must include clear attribution in the product documentation or
+user interface, stating at minimum the name of the library and that the
+product makes use of technology licensed under R3D.
+
+The User assumes full responsibility for their use of the Software and
+must ensure that such use does not infringe upon the rights of any
+third party.
+
+------------------------------------------------------------------------
+
+Section 5. Restrictions
+
+The User may not sell, rent, or sublicense the Software as a standalone
+product separate from a Derivative Work, unless prior written
+permission has been obtained from the Creator.
+
+The User may not remove, alter, or obscure any copyright notices,
+license identifiers, or creator attributions present in the source code
+or documentation.
+
+The User may not use the name or identity of the Creator for
+promotional, advertising, or endorsement purposes without written
+consent.
+
+The User may not reverse-engineer the Software with the intent of
+extracting proprietary algorithms for separate recompilation and
+redistribution as an independent product.
+
+------------------------------------------------------------------------
+
+Section 6. Contributions
+
+Any contribution submitted by a User to the Software is considered
+voluntarily offered and shall be governed by the same terms as this
+R3D License.
+
+The Creator reserves the right to accept, reject, or modify incoming
+contributions. Contributors whose work is accepted are entitled to
+recognition in official release notes.
+
+------------------------------------------------------------------------
+
+Section 7. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS-IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NON-INFRINGEMENT.
+
+THE CREATOR SHALL NOT BE LIABLE FOR ANY DAMAGES OR LOSSES ARISING FROM
+THE USE OR INABILITY TO USE THE SOFTWARE, INCLUDING BUT NOT LIMITED TO
+DATA LOSS, SYSTEM FAILURE, RENDERING PIPELINE ERRORS, OR BUSINESS
+INTERRUPTION, EVEN IF THE CREATOR HAS BEEN ADVISED OF THE POSSIBILITY
+OF SUCH DAMAGES.
+
+------------------------------------------------------------------------
+
+Section 8. Termination
+
+This license remains in effect for as long as the User complies with
+its terms. Any violation of the terms herein results in automatic
+termination of this license.
+
+Upon termination, the User must immediately cease all use of the
+Software and remove all copies from systems under their control.
+
+Section 4, Section 7, and Section 9 survive termination of this
+license.
+
+------------------------------------------------------------------------
+
+Section 9. Governing Law
+
+This license is governed by the laws of the country in which the
+Creator is domiciled. Any dispute arising from or related to this
+license shall first be addressed through good-faith negotiation between
+the parties.
+
+If no resolution is reached within thirty days of the dispute being
+raised, either party may submit the matter to the appropriate legal
+authority under applicable law.
+
+========================================================================
+
+Copyright 2026 danko1122q. All rights reserved.

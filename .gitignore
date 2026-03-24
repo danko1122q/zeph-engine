@@ -1,0 +1,74 @@
+# Zig Build Artifacts
+
+# Cache build Zig
+.zig-cache/
+zig-cache/
+
+# Output build (binary hasil kompilasi)
+zig-out/
+
+# Editor & IDE
+
+# VSCode
+.vscode/
+
+# JetBrains (CLion, etc.)
+.idea/
+*.iml
+
+# Vim / Neovim
+*.swp
+*.swo
+*~
+.netrwhist
+
+# Emacs
+\#*\#
+.\#*
+
+# Zed
+.zed/
+
+
+# OS Generated
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+
+# Binaries & Compiled Output
+
+# Demo executables
+demo_bounceball
+demo_cloth
+demo_dropbox
+demo_flag
+
+# Shared / static libraries
+*.so
+*.a
+*.dylib
+*.dll
+*.exe
+
+# Object files
+*.o
+
+# Misc
+# Log files
+*.log
+
+# Env files (jangan commit secrets)
+.env
+.env.local
